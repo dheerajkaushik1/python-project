@@ -1,6 +1,6 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "@-#-#//&dheeraj",
+    "password": "",
     "database": "mcq_test"
 }
